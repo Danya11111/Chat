@@ -19,12 +19,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\Desktop\Chat.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\Message.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\User.h" />
+    <ClInclude Include="Chat.h" />
+    <ClInclude Include="Message.h" />
+    <ClInclude Include="User.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\Desktop\main.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

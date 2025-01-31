@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat\\Chat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{064776A8-F3FB-4D78-ABF7-B0874A752450}|Chat\\Chat.vcxproj|C:\\Users\\Daniil Arkhipov\\Desktop\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{064776A8-F3FB-4D78-ABF7-B0874A752450}|Chat\\Chat.vcxproj|C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat\\Chat\\Chat\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{064776A8-F3FB-4D78-ABF7-B0874A752450}|Chat\\Chat.vcxproj|solutionrelative:Chat\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{064776A8-F3FB-4D78-ABF7-B0874A752450}|Chat\\Chat.vcxproj|C:\\Users\\Daniil Arkhipov\\Desktop\\Chat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{064776A8-F3FB-4D78-ABF7-B0874A752450}|Chat\\Chat.vcxproj|C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat\\Chat\\Chat\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{064776A8-F3FB-4D78-ABF7-B0874A752450}|Chat\\Chat.vcxproj|solutionrelative:Chat\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{064776A8-F3FB-4D78-ABF7-B0874A752450}|Chat\\Chat.vcxproj|C:\\Users\\Daniil Arkhipov\\Desktop\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{064776A8-F3FB-4D78-ABF7-B0874A752450}|Chat\\Chat.vcxproj|C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat\\Chat\\Chat\\Message.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{064776A8-F3FB-4D78-ABF7-B0874A752450}|Chat\\Chat.vcxproj|solutionrelative:Chat\\Message.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{064776A8-F3FB-4D78-ABF7-B0874A752450}|Chat\\Chat.vcxproj|C:\\Users\\Daniil Arkhipov\\Desktop\\Message.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{064776A8-F3FB-4D78-ABF7-B0874A752450}|Chat\\Chat.vcxproj|C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat\\Chat\\Chat\\Chat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{064776A8-F3FB-4D78-ABF7-B0874A752450}|Chat\\Chat.vcxproj|solutionrelative:Chat\\Chat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,54 +42,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Message.h",
-              "DocumentMoniker": "C:\\Users\\Daniil Arkhipov\\Desktop\\Message.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\Message.h",
-              "ToolTip": "C:\\Users\\Daniil Arkhipov\\Desktop\\Message.h",
-              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\Message.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "User.h",
+              "DocumentMoniker": "C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat\\Chat\\Chat\\User.h",
+              "RelativeDocumentMoniker": "Chat\\User.h",
+              "ToolTip": "C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat\\Chat\\Chat\\User.h",
+              "RelativeToolTip": "Chat\\User.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-31T13:35:18.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T13:44:11.9Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "User.h",
-              "DocumentMoniker": "C:\\Users\\Daniil Arkhipov\\Desktop\\User.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\User.h",
-              "ToolTip": "C:\\Users\\Daniil Arkhipov\\Desktop\\User.h",
-              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\User.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Message.h",
+              "DocumentMoniker": "C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat\\Chat\\Chat\\Message.h",
+              "RelativeDocumentMoniker": "Chat\\Message.h",
+              "ToolTip": "C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat\\Chat\\Chat\\Message.h",
+              "RelativeToolTip": "Chat\\Message.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-31T13:35:46.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T13:43:33.879Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Chat.h",
-              "DocumentMoniker": "C:\\Users\\Daniil Arkhipov\\Desktop\\Chat.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\Chat.h",
-              "ToolTip": "C:\\Users\\Daniil Arkhipov\\Desktop\\Chat.h",
-              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\Chat.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat\\Chat\\Chat\\Chat.h",
+              "RelativeDocumentMoniker": "Chat\\Chat.h",
+              "ToolTip": "C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat\\Chat\\Chat\\Chat.h",
+              "RelativeToolTip": "Chat\\Chat.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-31T13:34:43.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T13:43:05.413Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\Daniil Arkhipov\\Desktop\\main.cpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\main.cpp",
-              "ToolTip": "C:\\Users\\Daniil Arkhipov\\Desktop\\main.cpp",
-              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat\\Chat\\Chat\\main.cpp",
+              "RelativeDocumentMoniker": "Chat\\main.cpp",
+              "ToolTip": "C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat\\Chat\\Chat\\main.cpp",
+              "RelativeToolTip": "Chat\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-31T13:35:45.281Z",
+              "WhenOpened": "2025-01-31T13:42:33.262Z",
               "EditorCaption": ""
             }
           ]

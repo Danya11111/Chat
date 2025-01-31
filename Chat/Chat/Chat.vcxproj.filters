@@ -15,18 +15,18 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\Desktop\Chat.h">
+    <ClInclude Include="Chat.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\Message.h">
+    <ClInclude Include="Message.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\User.h">
+    <ClInclude Include="User.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\Desktop\main.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
